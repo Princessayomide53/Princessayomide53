@@ -2,7 +2,6 @@
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/Princy_koko)
 
-[<img src="https://komarev.com/ghpvc/?username=temitayo-spec&label=Profile%20views&color=0e75b6&style=flat" alt="temitayo-spec" />](https://github.com/Princessayomide53/Princess-ayomide)
 
 <!--**Princess-ayomide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
