@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 
 - An enthusiastic and result-driven individual with a strong yearning to learn. Excellent organization, presentation, and time management skills in effectively communicating with people and paying attention to details. she has demonstrated integrity, teamwork, dexterity and leadership skills to effectively work in a professional setting with proven ability to be strategic, tactical and engage in critical thinking in complex problem solving.
 
-- 🔭 I’m currently working on an Open Source Project.
-
 - 👯 I’m looking to collaborate on Fullstack web development.
 
 - 🤔 I’m looking for help with nice web animations.
