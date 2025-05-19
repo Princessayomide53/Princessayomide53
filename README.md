@@ -1,4 +1,4 @@
-# Hi, I'm Princess Ayomide <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi, I'm Princess Ayomide Ogunnaike <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/Princy_koko)
 
@@ -6,8 +6,6 @@
 <!--**Princess-ayomide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-
-> # Hey there 👋 I'm Princess Ayomide Ogunnaike!
 
 If you’ve stumbled across this page, you’re probably wondering who I am — so here’s the quick scoop:
 
