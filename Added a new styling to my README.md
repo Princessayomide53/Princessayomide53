@@ -44,7 +44,7 @@ I'm always open to networking, sharing ideas, or teaming up on a cool project!
 - 📺 Fun fact: I’m a huge **anime** fan (seriously, don’t get me started unless you have time 😂).
 
 
-### Tools & Technologies
+## Tools & Technologies
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
