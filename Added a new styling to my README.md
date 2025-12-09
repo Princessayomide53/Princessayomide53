@@ -65,4 +65,4 @@ I'm always open to networking, sharing ideas, or teaming up on a cool project!
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 
-Thanks for stopping by — let’s create something amazing together 🌟
+Thanks for stopping by — let’s build something amazing together 🌟
