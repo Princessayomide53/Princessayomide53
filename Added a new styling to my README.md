@@ -11,7 +11,7 @@ If you’ve stumbled across this page, you’re probably wondering who I am — 
 
 ## 👩‍🔬 From Biochemistry to Building Beautiful Interfaces
 
-I graduated from **Oduduwa University**, where I studied Biochemistry. While science taught me discipline and curiosity, my passion led me to tech — specifically, **Frontend Web Development**. Today, I bring ideas to life through code, creativity, and a whole lot of enthusiasm.
+I graduated from **Oduduwa University**, where I studied Biochemistry. While science taught me discipline and curiosity, my passion led me to tech — specifically, **Frontend Engineer**. Today, I bring ideas to life through code, creativity, and a whole lot of enthusiasm.
 
 ## ✨ What I'm Like to Work With
 
@@ -20,7 +20,7 @@ I'm someone who:
 - Pays close attention to the little details that make a big difference
 - Cares about clean, accessible, and user-friendly design
 - Believes teamwork, honesty, and a good attitude go a long way
-- Can switch between strategic thinking and hands-on building — comfortably
+- Can switch between strategic thinking and hands-on building comfortably
 
 Whether I’m debugging code or brainstorming ideas, I always bring energy and intention to what I do.
 
