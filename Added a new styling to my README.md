@@ -7,9 +7,9 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Princy_koko)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:payomide53@gmail.com)
 
-I build production interfaces that hold up under real users — not just first impressions.
+I build production interfaces that hold up under real users not just first impressions.
 
-Over **5+ years**, I’ve shipped frontend across travel-tech, fintech, edtech, Web3, and proptech. I own the UI end-to-end: architecture, design systems, performance, and accessibility — from Figma to production.
+Over **5+ years**, I’ve shipped frontend across travel-tech, fintech, edtech, Web3, and proptech. I own the UI end-to-end: architecture, design systems, performance, and accessibility from Figma to production.
 
 ## From Biochemistry to Frontend
 
